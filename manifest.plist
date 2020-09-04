@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cscapp.github.io/csc.ipa</string>
+					<string>https://github.com/cscapp/app/blob/master/csc.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
